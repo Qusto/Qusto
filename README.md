@@ -18,5 +18,5 @@ My focus includes LLM applications, agent workflows, automation systems, API int
 Python · TypeScript · FastAPI · Next.js · PostgreSQL · Redis · Docker · GitHub Actions
 
 ## Contact
-- LinkedIn: [[https://www.linkedin.com/in/teterinsa]]
+- LinkedIn: https://www.linkedin.com/in/teterinsa
 
