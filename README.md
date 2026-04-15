@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Qusto/Qusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Qusto
-
 CTO focused on applied AI, automation, and production-grade engineering.
 
 I build AI products, developer tools, backend systems, and internal platforms with an emphasis on reliability, practical impact, and scalable execution.
